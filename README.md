@@ -23,4 +23,7 @@ Welcome to my *Digital Clock* project! 🎉 This is a simple and sleek clock tha
 
 Using JavaScript's `Date` object, the system time is fetched and displayed in real-time. The clock updates every second thanks to the `updateClock()` function. All the styling magic happens with CSS, while **HTML** provides the structure for displaying the time.
 
-![alt text](image.png)
+🔗 Live Demo
+Click here to see it in action! 🎉
+
+https://priyankathotkar.github.io/Digital_Clock/D_Clock.html
